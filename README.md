@@ -1,5 +1,5 @@
 # CSE-204-DS
-CSE 204 Sessional (Offline &amp; Online Codes)
+CSE 204 Data Structure & Algorithm Sessional (Offline &amp; Online Codes)
 
 ---
 ## Week-1
