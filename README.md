@@ -10,3 +10,5 @@ CSE 204 Data Structure & Algorithm Sessional (Offline &amp; Online Codes)
 - LinkedList, Stack, Queue
 ## Week-6
 - Graph, BFS & DFS
+## Week-8
+- Divide and Conquer (QuickSort & MergeSort)
